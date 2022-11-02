@@ -713,7 +713,7 @@ jQuery(document).ready(function($) {
     // $('.all-locations').click(function() {
     //    $('.location').slideUp(); 
     // });
-    $('.map-corporate-office').click(function(){
+    $('.map-list-item').click(function(){
         $('.location-dropdown-list').hide();
     }) 
       
